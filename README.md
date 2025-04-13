@@ -10,6 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/shaungalera/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/shaungalera/azure-network-protocols)
   - [VPN Setup](https://github.com/shaungalera/vpn-setup)
+  - [DNS Management and Practices](https://github.com/shaungalera/dns-lab)
   - [Network Shares and File Permissions](https://github.com/shaungalera/network-file-share)
 
 
